@@ -13,7 +13,7 @@ print("""
 |                                   |                           |                            |
 | \033[92mNmap Kısayolları                  \033[97m|  \033[92mWorldlist Kısayolları    \033[97m|  \033[92mBrute Force Kısayolları   \033[97m|            
 |                                   \033[97m|                           |                            |
-| \033[94m[\033[97m01\033[94m] Hizli Tarama                 \033[97m|  \033[94m[\033[97m04\033[94m] Cupp.py Başlatma    \033[97m|  \033[94m[\033[97m06\033[94m] İnstax Başlatma\033[97m[\033[31mRoot\033[97m]      \033[97m|   
+| \033[94m[\033[97m01\033[94m] Hizli Tarama                 \033[97m|  \033[94m[\033[97m04\033[94m] Cupp.py Başlatma    \033[97m|  \033[94m[\033[97m06\033[94m] İnstax Başlatma\033[97m[\033[31mRoot\033[97m]\033[97m|   
 | \033[94m[\033[97m02\033[94m] Servis Ve Versiyon Bilgisi   \033[97m|                           |                            |
 | \033[94m[\033[97m03\033[94m] Isletım Sıstemı Bilgisi      \033[97m|  \033[92mFake Site Script         \033[97m|                            |
 |                                   \033[97m|                           \033[97m|                            |
